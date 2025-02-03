@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "b67af1d4b5081f54",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd7845bb9e185690",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6168240c15c3461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Templates/Full Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Full Note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eed523f095f1fd4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6920ef9bdda6926e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ae5ba8d24ba89f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3cc6e823c00fd7d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c528aebf1c3bd36d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3593e4d785d1c195",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5d808a913587cbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5e758d3294a27c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5. Templates/Full Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Full Note"
+            }
+          },
+          {
+            "id": "0417b5cdc1cb01c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5. Templates/Full Note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Full Note"
+            }
+          },
+          {
+            "id": "bd50e4bf0a587d6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a0b98b7fdc56297",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5. Templates/Full Note.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Full Note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c6168240c15c3461",
+  "lastOpenFiles": [
+    "How am i still alive?.md",
+    "5. Templates/Full Note.md",
+    "6. Main Notes",
+    "5. Templates",
+    "4. Indexes",
+    "3. Tags",
+    "2. Source Material",
+    "1. Rough Notes"
+  ]
+}
