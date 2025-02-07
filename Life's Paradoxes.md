@@ -1,0 +1,1 @@
+- If we generalize then, it is difficult to understand but, easy to follow if understood. But, if we provide examples then, it is easy to understand but, difficult to follow.

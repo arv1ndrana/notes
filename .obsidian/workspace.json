@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "dd7845bb9e185690",
+        "id": "1d2a08a19ed416e0",
         "type": "tabs",
         "children": [
           {
-            "id": "c6168240c15c3461",
+            "id": "4f41f349f25dcce6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Templates/Full Note.md",
+                "file": "What do git checkouts really mean?.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Full Note"
+              "title": "What do git checkouts really mean?"
             }
           }
         ]
@@ -74,11 +84,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3593e4d785d1c195",
@@ -168,15 +180,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6168240c15c3461",
+  "active": "4f41f349f25dcce6",
   "lastOpenFiles": [
-    "How am i still alive?.md",
+    "Life's Paradoxes.md",
+    "What do git checkouts really mean?.md",
+    "The Science of Well Being for Teens.md",
+    "reference.md",
+    "How Does Git Store Files?.md",
+    "git theory.md",
+    "2. Source Material/Images/git Working dir to Index to HEAD.png",
+    "2. Source Material/Videos/How to learn and remember English words.md",
+    "A Note About Git Commit Messages.md",
+    "2. Source Material/Blogs/How HEAD works in git?.md",
+    "3. Tags/cli.md",
+    "chezmoi.md",
+    "git.md",
+    "working tree.md",
+    "Untitled.md",
     "5. Templates/Full Note.md",
+    "Untitled 1.md",
+    "HEAD.md",
+    "standards.md",
+    "2. Source Material/Books",
+    "2. Source Material/Blogs",
+    "2. Source Material/Articles",
+    "2. Source Material/Videos",
+    "2. Source Material/Images",
+    "src/photos",
+    "src/git_source.md",
+    "src",
+    "How am i still alive?.md",
     "6. Main Notes",
     "5. Templates",
-    "4. Indexes",
-    "3. Tags",
-    "2. Source Material",
-    "1. Rough Notes"
+    "4. Indexes"
   ]
 }

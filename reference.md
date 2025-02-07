@@ -1,0 +1,3 @@
+A name that points to an [object name](https://git-scm.com/docs/user-manual.html#def_object_name) or another ref (the latter is called a [symbolic ref](https://git-scm.com/docs/user-manual.html#def_symref)). For convenience, a ref can sometimes be abbreviated when used as an argument to a Git command. Refs are stored in the [repository](https://git-scm.com/docs/user-manual.html#def_repository).
+
+https://git-scm.com/book/en/v2/Git-Internals-Git-Referencess

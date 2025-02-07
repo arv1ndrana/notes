@@ -1,0 +1,7 @@
+[[git]]
+[[tmux]]
+[[nvim]]
+[[fzf]]
+[[ssh]]
+[[chezmoi]]
+[[make]]

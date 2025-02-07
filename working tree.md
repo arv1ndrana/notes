@@ -1,0 +1,1 @@
+The tree of actual checked out files. The working tree normally contains the contents of the [HEAD](https://git-scm.com/docs/user-manual.html#def_HEAD) commit’s tree, plus any local changes that you have made but not yet committed.
