@@ -1,8 +1,8 @@
 2025-02-04 03:09
 
-Status: #todo #technical
+Status:  #technical #youth 
 
-Tags:
+Tags: [[git]] [[cli]] [[git theory]]
 
 # What do git checkouts really mean?
 ## notes

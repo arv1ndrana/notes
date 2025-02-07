@@ -2,7 +2,7 @@
 
 Status: #youth #re-read
 
-Tags: [[git]] [[linux]] [[theory]] [[software]] [[cli]]
+Tags: [[git]] [[git theory]] [[cli]]
 
 # How HEAD works in git?
 ## notes
