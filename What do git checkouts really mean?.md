@@ -31,7 +31,7 @@ Tags:
 ## summary
 The `checkout` command points the `HEAD` to a particular branch. [[How HEAD works in git?|HEAD]] is a label noting where you are in the commit tree. `HEAD` moves with you when you move from one commit to another.
 
-`git checkout <commit>` is how you move around in your [[commit tree]]. Moving your focus that is the `HEAD` to a specified commit.
+`git checkout <commit>` is how you move around in your [[commit tree]]. Moving your1 focus that is the `HEAD` to a specified commit.
 
 Here, the `<commit>` can be:
 - commit hash
