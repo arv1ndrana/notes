@@ -42,7 +42,7 @@ Here, the `<commit>` can be:
 
 ==The `checkout` command also updates the state of the checked out commit in the working directory.==
 
-The `git checkout <branch>` command makes the newly checked out branch, active. ==The active branch will move along with any new commits that are added.==
+The `git checkout <branch>` command activates the checked out branch. The active branch will move along with any new commits that are added.
 
 The `git checkout -b <branch>` command makes a new branch based on the current commit and then made active.
 
@@ -68,11 +68,11 @@ You can undo it by using `git checkout dev` command to repository's currently se
 But, what if you have a branch named `dev`
 The git command prioritizes branches above folders.
 
-So, doing `git checkout dev` in the case of having both `dev` folder and `dev` branch will switch your branch to `dev` instead of undoing your changes.
+So, doing `git checkout dev` in the case of having both `dev` folder and `dev` branch will switch your branch to `dev` instead of undoing your changes in the `dev` folder.
 
 To avoid this, do `git checkout -- dev` to undo your changes in the `dev` folder instead of switching your branch to `dev`.
 
-Here, the `--` mean the current branch.
+Here, the `--` means the current branch.
 
 Similarly, doing `git checkout dev index.html` will changes the file `index.html` in the current branch to the state of the file `index.html` from the branch `dev`.
 
