@@ -84,13 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3593e4d785d1c195",
@@ -182,36 +180,36 @@
   },
   "active": "4f41f349f25dcce6",
   "lastOpenFiles": [
-    "Life's Paradoxes.md",
-    "What do git checkouts really mean?.md",
     "The Science of Well Being for Teens.md",
-    "reference.md",
     "How Does Git Store Files?.md",
-    "git theory.md",
-    "2. Source Material/Images/git Working dir to Index to HEAD.png",
-    "2. Source Material/Videos/How to learn and remember English words.md",
-    "A Note About Git Commit Messages.md",
-    "2. Source Material/Blogs/How HEAD works in git?.md",
-    "3. Tags/cli.md",
+    "1. Rough Notes/Life's Paradoxes.md",
     "chezmoi.md",
-    "git.md",
-    "working tree.md",
-    "Untitled.md",
     "5. Templates/Full Note.md",
+    "working tree.md",
+    "reference.md",
+    "git.md",
+    "git theory.md",
+    "What do git checkouts really mean?.md",
+    "A Note About Git Commit Messages.md",
+    "3. Tags/cli.md",
+    "3. Tags",
+    "2. Source Material/Videos/How to learn and remember English words.md",
+    "2. Source Material/Videos",
+    "2. Source Material/Images/git Working dir to Index to HEAD.png",
+    "2. Source Material/Images",
+    "2. Source Material/Blogs/How HEAD works in git?.md",
+    "2. Source Material/Blogs",
+    "Untitled.md",
     "Untitled 1.md",
     "HEAD.md",
     "standards.md",
     "2. Source Material/Books",
-    "2. Source Material/Blogs",
     "2. Source Material/Articles",
-    "2. Source Material/Videos",
-    "2. Source Material/Images",
     "src/photos",
     "src/git_source.md",
     "src",
     "How am i still alive?.md",
     "6. Main Notes",
-    "5. Templates",
-    "4. Indexes"
+    "5. Templates"
   ]
 }
