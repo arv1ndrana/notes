@@ -32,6 +32,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "e819a904f5d94b14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe752b3664a85d64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What do git checkouts really mean?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "What do git checkouts really mean?"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3593e4d785d1c195",
@@ -178,7 +209,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f41f349f25dcce6",
+  "active": "fe752b3664a85d64",
   "lastOpenFiles": [
     "The Science of Well Being for Teens.md",
     "How Does Git Store Files?.md",
