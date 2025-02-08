@@ -114,7 +114,17 @@ Set upstream and push changes to remote
 ```shell
 git push -u origin main
 ```
-# Miscellaneous (no clue)
+# For listing untracked files and folders
+```shell
+git ls-files --others --exclude-standard
+```
+# For removing all untracked files and folders
+```shell
+# BE CAREFUL! THE ACTION IS IRREVERSIBLE
+git clean -df
+```
+# Miscellaneous:
+# (no clue)
 ```shell
 # To update in github after removing a commit in local folder
 git rebase --continue
@@ -124,3 +134,10 @@ git rebase --continue
 ```shell
 git log --graph --decorate --oneline $(git rev-list -g --all)
 ```
+# For excluding a file in git diff command
+```shell
+git diff -- . ':!<filename>'
+```
+- Replace `<filename>` with actual file name to exclude.
+- On Windows, replace the single quotes `'` by double quotes `"`.
+**NOTE**: This only works for files under current directory.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What does dirty and clean working directory mean?.md",
+                "file": "git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What does dirty and clean working directory mean?"
+              "title": "git"
             }
           }
         ]
@@ -180,10 +180,13 @@
   },
   "active": "be0fe3ab1126216e",
   "lastOpenFiles": [
+    "5. Templates/Full Note.md",
+    "chezmoi.md",
     "How do I undo 'git reset'?.md",
-    "How Does Git Store Files?.md",
-    "What does dirty and clean working directory mean?.md",
     "git theory.md",
+    "git.md",
+    "What does dirty and clean working directory mean?.md",
+    "How Does Git Store Files?.md",
     "reference.md",
     "2. Source Material/Images/git Working dir to Index to HEAD.png",
     "2. Source Material/Images/clean working tree showcase with git status command.png",
@@ -193,10 +196,7 @@
     "The Science of Well Being for Teens.md",
     "What does dirty/clean working directory mean?.md",
     "What does dirty",
-    "chezmoi.md",
     "2. Source Material/Blogs/A Note About Git Commit Messages.md",
-    "5. Templates/Full Note.md",
-    "git.md",
     "2. Source Material/Blogs/How HEAD works in git?.md",
     "1. Rough Notes/Life's Paradoxes.md",
     "3. Tags/cli.md",

@@ -15,6 +15,7 @@
 | Staging area                       | preparation                                               |
 | [[working tree]]                   |                                                           |
 | [[reference]]                      |                                                           |
+| [[staged]]                         |                                                           |
 When using [[git]] to restore file state,
 - use `checkout` to restore deleted files.
 - use `checkout` to restore file state to desired commit.
