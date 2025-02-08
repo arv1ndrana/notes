@@ -31,5 +31,13 @@
       ],
       "key": "ArrowRight"
     }
+  ],
+  "window:reset-zoom": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
+    }
   ]
 }

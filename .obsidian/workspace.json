@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d2a08a19ed416e0",
+        "id": "0f4f2926897a1c70",
         "type": "tabs",
         "children": [
           {
-            "id": "4f41f349f25dcce6",
+            "id": "51c3f115689ee45c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Source Material/Blogs/How HEAD works in git?.md",
+                "file": "git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How HEAD works in git?"
+              "title": "git"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3593e4d785d1c195",
@@ -178,20 +179,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f41f349f25dcce6",
+  "active": "51c3f115689ee45c",
   "lastOpenFiles": [
+    "A Note About Git Commit Messages.md",
+    "How do I undo 'git reset'?.md",
     "2. Source Material/Blogs/What do git checkouts really mean?.md",
-    "2. Source Material/Blogs/How HEAD works in git?.md",
-    "git theory.md",
     "The Science of Well Being for Teens.md",
     "How Does Git Store Files?.md",
-    "1. Rough Notes/Life's Paradoxes.md",
+    "git theory.md",
+    "2. Source Material/Blogs/How HEAD works in git?.md",
+    "git.md",
     "chezmoi.md",
+    "1. Rough Notes/Life's Paradoxes.md",
     "5. Templates/Full Note.md",
     "working tree.md",
     "reference.md",
-    "git.md",
-    "A Note About Git Commit Messages.md",
     "3. Tags/cli.md",
     "3. Tags",
     "2. Source Material/Videos/How to learn and remember English words.md",

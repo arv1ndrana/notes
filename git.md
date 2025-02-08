@@ -93,7 +93,7 @@ git branch -r
 ```
 # For deleting branch
 ```shell
-# To delete branch remotely (BE CAREFUL! THE ACTION IS DESTRUCTIVE)
+# To delete branch remotely (BE CAREFUL! THE ACTION IS IRREVERSIBLE)
 git push origin --delete <branch>
 
 # To delete a local <branch>
@@ -118,4 +118,9 @@ git push -u origin main
 ```shell
 # To update in github after removing a commit in local folder
 git rebase --continue
+```
+
+# For visualizing commits
+```shell
+git log --graph --decorate --oneline $(git rev-list -g --all)
 ```

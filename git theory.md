@@ -28,4 +28,3 @@ git working mechanism:
 - but, changing `.git/COMMIT_EDITMSG` does NOT change the commit message.
 
 - `HEAD@{1}` means “the previous commit referenced by `HEAD`”, that is, the commit before the merge.
-- 
