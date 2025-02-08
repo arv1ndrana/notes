@@ -1,6 +1,6 @@
 2025-02-08 11:28
 
-Status: #todo #technical 
+Status: #todo
 
 Tags: 
 

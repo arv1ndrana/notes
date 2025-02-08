@@ -1,6 +1,6 @@
 2025-02-04 03:09
 
-Status:  #technical #youth 
+Status:  #youth
 
 Tags: [[git]] [[cli]] [[git theory]]
 
@@ -57,7 +57,7 @@ If you are on a branch, the branch name is the latest commit for that branch.
 
 Example Use Case
 We have folder named `dev` and a file named `index.html`.
-Everything is tracked and [[working directory is clean]].
+Everything is tracked and [[What does dirty and clean working directory mean?|working directory is clean]].
 
 The file `index.html` is renamed or deleted.
 You can undo it by using `git checkout index.html` command to ==repository's currently selected branch file state.==

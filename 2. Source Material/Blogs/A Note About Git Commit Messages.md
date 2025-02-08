@@ -2,7 +2,7 @@
 
 Status: #todo #child 
 
-Tags:
+Tags: [[cli]] [[git]] [[git theory]]
 
 # A Note About Git Commit Messages
 ## notes
