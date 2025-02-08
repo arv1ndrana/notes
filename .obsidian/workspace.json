@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git.md",
+                "file": "A Note About Git Commit Messages.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "A Note About Git Commit Messages"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "51c3f115689ee45c",
   "lastOpenFiles": [
+    "git.md",
     "A Note About Git Commit Messages.md",
     "How do I undo 'git reset'?.md",
     "2. Source Material/Blogs/What do git checkouts really mean?.md",
@@ -188,7 +189,6 @@
     "How Does Git Store Files?.md",
     "git theory.md",
     "2. Source Material/Blogs/How HEAD works in git?.md",
-    "git.md",
     "chezmoi.md",
     "1. Rough Notes/Life's Paradoxes.md",
     "5. Templates/Full Note.md",
