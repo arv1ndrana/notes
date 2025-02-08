@@ -118,6 +118,10 @@ git push -u origin main
 ```shell
 git ls-files --others --exclude-standard
 ```
+OR, 
+```shell
+git commit
+```
 # For removing all untracked files and folders
 ```shell
 # BE CAREFUL! THE ACTION IS IRREVERSIBLE

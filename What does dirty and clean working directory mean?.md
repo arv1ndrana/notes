@@ -10,7 +10,13 @@ Tags:
 - Clean working directory means there are no **tracked and modified** files in the local git repository.
 - When you make changes to a file that git is tracking, git sees that there is a difference between the current state of the file and the last committed state of that file. Until this file is committed, `git status` will show this file as modified and your working directory will be dirty.
 - Tracked files are files that git knows about. That is, files that you have previously made a snapshot of by using `git add <file_name>` and `git commit`.
-- 
+- If there are untracked files present int the directory, git will show something like this:
+
+```
+nothing added to commit but untracked files present (use "git add" to track)
+```
+
+after listing the files that are not being tracked by git.
 
 
 ## summary
