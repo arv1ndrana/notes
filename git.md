@@ -33,14 +33,16 @@ git push -u origin main
 ```shell
 git add .
 git commit -m "<suitable message>"
-git push -u origin main
+git push
 ```
-**NOTE**: Do this AFTER making changes to local repository.
+**NOTE**:
+- Do this AFTER making changes to local repository.
+- Use `git push -u origin main` (or the equivalent `--set-upstream`) only for the _very first_ push of a new branch.
 # For accidental add of file
 ```shell
 git restore --staged <file>
 ```
-NOTE: `<file>`can also be path.
+**NOTE**: `<file>`can also be path.
 # For changing last commit message
 ```shell
 git commit --amend
