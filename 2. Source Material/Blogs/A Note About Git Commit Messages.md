@@ -1,6 +1,6 @@
 2025-02-05 22:21
 
-Status: #todo #child 
+Status: #youth  
 
 Tags: [[cli]] [[git]] [[git theory]]
 

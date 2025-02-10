@@ -83,6 +83,16 @@ git checkout -- .
 git log
 ```
 **NOTE**: top -> bottom ==>  new -> old
+# For creating new branch
+```shell
+git branch <branch>
+```
+**NOTE**: This only creates the branch but, does not change the current branch.
+OR,
+```shell
+git checkout -b <branch>
+```
+**NOTE**: This creates a new branch and changes the current branch to new branch.
 # For listing branch
 ```shell
 # To list branch from local repository
@@ -120,7 +130,19 @@ git ls-files --others --exclude-standard
 ```
 OR, 
 ```shell
+git status
+```
+OR,
+```shell
 git commit
+```
+# For untracking file
+```shell
+git rm --cached <file>
+```
+# For untracking folder
+```shell
+git rm -r --cached <folder>
 ```
 # For removing all untracked files and folders
 ```shell
@@ -136,6 +158,13 @@ git rebase --continue
 
 # For visualizing commits
 ```shell
+# To graph local commits
+git log --all --decorate --oneline --graph
+```
+**NOTE**: The above can be memorized as "A DOG".
+OR,
+```shell
+# To graph remote commits
 git log --graph --decorate --oneline $(git rev-list -g --all)
 ```
 # For excluding a file in git diff command
@@ -144,4 +173,4 @@ git diff -- . ':!<filename>'
 ```
 - Replace `<filename>` with actual file name to exclude.
 - On Windows, replace the single quotes `'` by double quotes `"`.
-**NOTE**: This only works for files under current directory.
+**NOTE**: This only works for files under current directory. Therefore, Use relative path for files in directories.
