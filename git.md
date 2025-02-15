@@ -1,4 +1,4 @@
-Read [[git theory]] for terms and definitions.
+qRead [[git theory]] for terms and definitions.
 # Setup
 ```shell
 paru -S git github-cli
