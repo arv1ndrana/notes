@@ -26,6 +26,8 @@ tmux
 | `Ctrl+b x`                        | To kill pane                                                         |
 | `Ctrl+b &`                        | To kill window                                                       |
 | `Ctrl+b [`                        | To enter vi copy mode. NOTE: Use `Enter` key to confirm copying text |
+| `Ctrl+b z`                        | To zoom-in in a single pane                                          |
+| `Ctrl+b !`                        | To change pane to a seperate window                                  |
 # For listing tmux session
 ```shell
 tmux ls
