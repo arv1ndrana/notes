@@ -26,13 +26,14 @@ gh repo create <project_name> --private
 git init
 git add .
 git commit -m "Initial commit"
+git branch -M main
 git remote add origin https://github.com/arv1ndrana/<project_name>.git
 git push -u origin main
 ```
 # For updating remote repository
 ```shell
-git add .
-git commit -m "<suitable message>"
+git add <file>
+git commit
 git push
 ```
 **NOTE**:
@@ -43,6 +44,10 @@ git push
 git restore --staged <file>
 ```
 **NOTE**: `<file>`can also be path.
+# For accidental commit of added file (does not work)
+```shell
+git reset <file>
+```
 # For changing last commit message
 ```shell
 git commit --amend
@@ -77,7 +82,9 @@ git push -u origin <branch> --force
 # For undoing to last commit in local folder (untested) (wtf does undoing mean)
 ```shell
 git revert <commit ID>
-
+```
+OR,
+```shell
 git checkout -- .
 ```
 # For commit history
@@ -110,6 +117,10 @@ git push origin --delete <branch>
 
 # To delete a local <branch>
 git branch -d <branch>
+```
+OR,
+```shell
+git branch -D <branch>
 ```
 **WARNING**: Deleting branch remotely WILL delete the branch completely.
 # For changing branch from master to main
@@ -146,7 +157,7 @@ git rm --cached <file>
 ```shell
 git rm -r --cached <folder>
 ```
-# For removing all untracked files and folders
+# For removing all untracked files and folders from local repository
 ```shell
 # BE CAREFUL! THE ACTION IS IRREVERSIBLE
 git clean -df
@@ -176,3 +187,7 @@ git diff -- . ':!<filename>'
 - Replace `<filename>` with actual file name to exclude.
 - On Windows, replace the single quotes `'` by double quotes `"`.
 **NOTE**: This only works for files under current directory. Therefore, Use relative path for files in directories.
+# For changing branch location but keeping the changes done in the previous commit
+```shell
+git reset --soft <commit-hash>
+```
